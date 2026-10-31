@@ -27,3 +27,13 @@ I expect to master modern web application development workflows using Git/GitHub
 - Technical skills I want to improve: System architecture design, containerization with Docker, and cloud infrastructure management.
 - Technologies I want to learn: Django REST Framework, Docker, Kubernetes, AWS.
 - Dream Job Position: Full-Stack Developer / Backend Software Engineer
+
+## Semester Goals
+- Learn Django
+- Learn REST API Development
+- Learn Cloud Deployment
+
+## Portfolio Projects
+1. Student Management System
+2. Internship Management System
+3. Inventory Management System
